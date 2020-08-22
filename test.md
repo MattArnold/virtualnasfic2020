@@ -10,12 +10,12 @@ order: 90
 
 This hidden room tests a redirect src for the Vimeo feed of the Auditorium.
 
-<iframe src="https://pacsec.jp/test.html" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video" ></iframe>
+<iframe src="https://pacsec.jp/test.html" frameborder="0" allow="autoplay; fullscreen" allowfullscreen mozallowfullscreen webkitallowfullscreen class="nasfic-video" ></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
 
-{% include room_disclaimers.html name="auditorium" %}
+{% include room_disclaimers.html name="test" %}
 
 <script src="https://unpkg.com/dayjs@1.8.21/dayjs.min.js"></script>
 <script>
