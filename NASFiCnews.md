@@ -57,6 +57,63 @@ Looking for something closer to earth? A variety of party games will be offered 
 
 ## Issue 2: Saturday AM
 
+### Message from Christopher Garcia 
+
+Hi, Christopher J Garcia, your editor guest of honor, I am incredibly sad I have to not appear at all at the convention this weekend. It was a truly great honor to be chosen for Editor guest of honor, but alas my town is fighting for its life and things do not look to be going in a positive direction due to the fires in northern California. While we won’t know if we Have lost our house for days or possibly even weeks, too many dear friends and family are losing their homes in the beautiful mountain town in Boulder Creek. 
+
+I hope the convention is as much fun as I was planning on having!
+
+Thank you very much  
+Chris
+
+_(ed: We will miss you! And we're are all crossing our fingers and toes for you.)_
+
+### Where is Everybody?
+
+One of the hardest things about making the transition to a virtual convention is figuring out how to replicate the social side. Don't tell anyone, but despite running Program for many conventions over the years, I don't actually attend much of it myself. Conventions for me are about catching up with friends and seeing people I only see at conventions. And that can be a little (okay, a lot!) trickier in the online format. So today's Discord tips are about finding your people!
+
+1. **The direct approach**. The right sidebar contains a list of people. It's organized by role (concom on top), online status, and then alphabetically by username. Scroll through the list and look for people you know! You can also use the search box to look for people by name. If you right click on their username anywhere within Discord you can then send them a friend request or a direct message.  (Please be respecful about messaging people you do not already know.)
+2. **Bumping into people.** You can bump into people in the various social spaces of the con, like #consuite or #virtual-bar - see who's there chatting. Or start a conversation yourself! The fan tables are also a great place to find people to chat with. While the folks representing those bids and conventions would be happy to answer your specific questions about their convention, there's often just lots of interesting conversation happening. Like Scotch recommendations at the Glasgow in 2024 table and talking about Space Camp at the Chicon 8 table.
+3. "Yes, yes" I hear you say "But chatting in text is not the same as sitting around in the lobby with people talking face-to-face!"
+4. **Use the Discord voice/video channels!** These are marked with a speaker symbol in the channel list. Once you've found some friends you'd like to voice chat with, encourage them to join you in the  consuite talk, hallway talk, mocktails and etc channels. Note that other people wandering by will be able to see who's in the voice channel and may wander in to join you. If you want a totally private conversation, you'll need to set up your own Zoom or Google Meet or videoconference of choice and send the link to your friends via DM. 
+
+### Don't forget to visit the Dealer's Room and Art Show!
+
+Many of the folks exhibiting rely on conventions for all or part of their income, and the lack of in-person conventions this year is really hurting them. Please check out their wares in the [art show](https://columbus2020nasfic.org/art-show-at-con.html) and [dealers room](https://columbus2020nasfic.org/dealers-at-con.html) pages on the website. If you'd like to chat with a dealer, they each have a dedicated channel in Discord. And you'll find some of the artists hanging out in #art-show.
+
+### The Cat People are Winning
+
+Drop into #pets to see pictures of members animal companions. So far the cat people are in the lead, with 11 pictures showing one more cats.
+
+* 11 cat (one with kittens)
+* 6 dogs
+* 2 birds
+* 1 pair of guinea pigs
+* 1 turtle
+* Plus one picture each of baby sheep and baby alpaca that are aspirational rather than actual pets
+
+C'mon dog people! Can you catch up? And no fish? Updates in the next newsletter!
+
+### NASFiC by the Numbers
+
+Counting people at a virtual convention is tricky! But at 1:30 am EDT on Saturday morning there were 531 members registered on Discord.
+
+Clearly not everyone has found their way to Discord yet, because there had been 794 unique names registered via the convention website. If you're one of the missing 263, come join the Discord - it's fun over there, I promise!
+
+293 unique viewers watched 9,269 minutes of readings! And of people attending panels, the average time spent watching was 1.9 hours.
+
+### Get a Taste of Columbus
+
+In the consuite yesterday many people were lamenting that the problem with not being in Columbus was the lack of Jeni's ice cream. For those unfamiliar with this divine confection, Jeni's started as a small scoop shop in North Market making really great ice cream in all kinds of delicious flavors. Fortunately, Jeni's has grown beyond its Columbus boundaries - check out the "where to buy" option on [their website](https://jenis.com/) and you just might be able to grab a taste of Columbus at a store near you. And they ship too!
+
+### Did you know there's a scavenger hunt going on? 
+
+Grab a cat herder ribbon in #02-badge-ribbons and see what new worlds (aka Discord channels) it opens up for you.
+
+### Get Your Game On
+
+The gaming schedule is available as a pinned post in #digital-gaming-chat. Note that to see the schedule you will first need click on at least one react icon in #enter-the-game-room. 
+
 ## Issue 3: Saturday PM
 
 ## Issue 4: Sunday

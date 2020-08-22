@@ -876,6 +876,8 @@
   room: "[Scioto](/scioto-room)"
   programparticipants:
   - Chris "Silver Spook" Miller
+  - Eddie Louise
+  - Evie Powell
   - Jeremy Holcomb
   - Phoebe Barton
   - Whitney "Strix" Beltrán
@@ -1241,11 +1243,13 @@
   - Chris Conway
   music: true
   published: true
-  description: "(20 Min Concert) Chris Conway is difficult to sum up in a few paragraphs as he is active in so 
-    many genres of music – singer-songwriter, new age, jazz, Celtic, world music, and electronic. This genre hopping makes 
-    him a moving target as an artist and keeps him below many people's radar, but there is a growing crowd of those in the 
-    know who enjoy the relentless creative flow of his music. Chris has travelled the world as Guest Of Honour at 5 filk 
-    conventions in the USA, Canada and the UK, and has won 5 Sam Awards (UK filk oscars)."
+  description: "(20 Min Concert) Chris Conway is difficult to sum up in a few paragraphs
+    as he is active in so many genres of music – singer-songwriter, new age, jazz,
+    Celtic, world music, and electronic. This genre hopping makes him a moving target
+    as an artist and keeps him below many people's radar, but there is a growing crowd
+    of those in the know who enjoy the relentless creative flow of his music. Chris
+    has travelled the world as Guest Of Honour at 5 filk conventions in the USA, Canada
+    and the UK, and has won 5 Sam Awards (UK filk oscars)."
 - title: 'Concert: Roberta Rogow'
   datetime: Friday, 5:00PM
   room: "[Auditorium](/auditorium)"
@@ -1253,11 +1257,12 @@
   - Roberta Rogow
   music: true
   published: true
-  description: "Roberta Rogow is a long-time fan, who has been active in Filk since the 1970's. 
-    She's known for her Star Trek and other Media filk, but has also written \"story songs\" to her own tunes. 
-    She was inducted into the Filk Hall of Fame in 20123. Roberta also writes mystery stories, often using historical 
-    characters in fictional settings. When she is not attending SF or Mystery conventions, Roberta is a retired 
-    Children's Librarian living in New Jersey."
+  description: Roberta Rogow is a long-time fan, who has been active in Filk since
+    the 1970's. She's known for her Star Trek and other Media filk, but has also written
+    "story songs" to her own tunes. She was inducted into the Filk Hall of Fame in
+    20123. Roberta also writes mystery stories, often using historical characters
+    in fictional settings. When she is not attending SF or Mystery conventions, Roberta
+    is a retired Children's Librarian living in New Jersey.
 - title: 'Concert: Tom Smith'
   datetime: Friday, 6:00PM
   room: "[Auditorium](/auditorium)"
@@ -1265,20 +1270,22 @@
   - Tom Smith
   music: true
   published: true
-  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
-    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
-    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
-    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
-    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
+  description: For over thirty years, Tom Smith has been breaking hearts, minds, and
+    rules of propriety with a huge number of comedic, dramatic, frenetic, and sometimes
+    straight-up ludicrous songs. Winner of fourteen Pegasus Awards for Excellence
+    in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire silliness
+    of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic
+    physique of the Skipper from Gilligan's Island. Catch him at a convention near
+    you, and live the myth of Smith!
 - title: Open Filk with Tom Smith
   datetime: Friday, 9:00PM
   room: "[Music Room](/participatory-music)"
   programparticipants:
   - Tom Smith
   - Jeff Keller
-  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
-    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
-    fantasy, science, and fandom.
+  description: "\\[Unthemed open song circle\\]. Come listen and/or make music in
+    this unthemed song circle. All types of music are welcome, but expect to hear
+    a bunch of songs related to science fiction, fantasy, science, and fandom."
   music: true
   published: true
 - title: Filk History & Stories
@@ -1299,9 +1306,10 @@
   - Mike Gibson
   - Jeff Keller
   - Becca Mandel
-  description: \[Themed open song circle\]. Come sing (or just listen to, but we hope
-    you'll sing) songs of the sea and sailing in all forms! Work songs from the age
-    of sail are particularly welcome, but so are updates, parodies, and related filks.
+  description: "\\[Themed open song circle\\]. Come sing (or just listen to, but we
+    hope you'll sing) songs of the sea and sailing in all forms! Work songs from the
+    age of sail are particularly welcome, but so are updates, parodies, and related
+    filks."
   music: true
   published: true
 - title: Open Filk
@@ -1310,9 +1318,9 @@
   programparticipants:
   - Naomi Hinchen
   - Peggi Warner-Lalonde
-  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
-    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
-    fantasy, science, and fandom.
+  description: "\\[Unthemed open song circle\\]. Come listen and/or make music in
+    this unthemed song circle. All types of music are welcome, but expect to hear
+    a bunch of songs related to science fiction, fantasy, science, and fandom."
   music: true
   published: true
 - title: Online-Performance Workshop
@@ -1333,11 +1341,13 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
-  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
-    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
-    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
-    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
-    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
+  description: For over thirty years, Tom Smith has been breaking hearts, minds, and
+    rules of propriety with a huge number of comedic, dramatic, frenetic, and sometimes
+    straight-up ludicrous songs. Winner of fourteen Pegasus Awards for Excellence
+    in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire silliness
+    of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic
+    physique of the Skipper from Gilligan's Island. Catch him at a convention near
+    you, and live the myth of Smith!
   music: true
   published: true
 - title: Bawdy Songs
@@ -1346,10 +1356,10 @@
   programparticipants:
   - Anabel Graetz
   - Merav Hoffman
-  description: '\[Themed open song circle\]. Sing or listen to songs of lust, sex, the
-    joy of procreation: songs about sex that are fun, funny and wonderful are all
-    welcome; violence and coercion are not, and the scatalogical is discouraged. Bawdiness
-    in any orientation is welcome. A virtual sing like no other!'
+  description: "\\[Themed open song circle\\]. Sing or listen to songs of lust, sex,
+    the joy of procreation: songs about sex that are fun, funny and wonderful are
+    all welcome; violence and coercion are not, and the scatalogical is discouraged.
+    Bawdiness in any orientation is welcome. A virtual sing like no other!"
   music: 'true'
   published: true
 - title: Open Filk
@@ -1358,9 +1368,9 @@
   programparticipants:
   - Merav Hoffman
   - Deirdre M. Murphy
-  description: \[Unthemed open song circle\]. Come listen and/or make music in this unthemed song circle. 
-    All types of music are welcome, but expect to hear a bunch of songs related to science fiction, 
-    fantasy, science, and fandom.
+  description: "\\[Unthemed open song circle\\]. Come listen and/or make music in
+    this unthemed song circle. All types of music are welcome, but expect to hear
+    a bunch of songs related to science fiction, fantasy, science, and fandom."
   music: true
   published: true
 - title: Traditional Ballad Bingo
@@ -1370,12 +1380,12 @@
   - Red Kovach
   - Naomi Hinchen
   - Becca Mandel
-  description: \[Themed open song circle, with a twist!\] Join the fun as attendees take
-    turns performing traditional ballads for the assemblage. Listen carefully to mark
-    your Ballad Bingo cards when you detect such classic tropes as drowning, pregnancy
-    out of wedlock, or murder of a loved one. Web-based bingo cards will be provided.  Attendees
-    are encouraged to lead songs, but you needn’t sing to play! Winners will get links to photos
-    of valuable prizes.
+  description: "\\[Themed open song circle, with a twist!\\] Join the fun as attendees
+    take turns performing traditional ballads for the assemblage. Listen carefully
+    to mark your Ballad Bingo cards when you detect such classic tropes as drowning,
+    pregnancy out of wedlock, or murder of a loved one. Web-based bingo cards will
+    be provided.  Attendees are encouraged to lead songs, but you needn’t sing to
+    play! Winners will get links to photos of valuable prizes."
   music: true
   published: true
 - title: 'Concert: Tom Smith'
@@ -1383,11 +1393,13 @@
   room: "[Auditorium](/auditorium)"
   programparticipants:
   - Tom Smith
-  description: "For over thirty years, Tom Smith has been breaking hearts, minds, and rules of propriety with a 
-    huge number of comedic, dramatic, frenetic, and sometimes straight-up ludicrous songs. Winner of fourteen 
-    Pegasus Awards for Excellence in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire 
-    silliness of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic physique of the 
-    Skipper from Gilligan's Island. Catch him at a convention near you, and live the myth of Smith!"
+  description: For over thirty years, Tom Smith has been breaking hearts, minds, and
+    rules of propriety with a huge number of comedic, dramatic, frenetic, and sometimes
+    straight-up ludicrous songs. Winner of fourteen Pegasus Awards for Excellence
+    in Filk, and member of the Filk Hall of Fame, Tom combines the rapid-fire silliness
+    of Robin Williams, the lyrical acumen of Ashman and Sondheim, and the dynamic
+    physique of the Skipper from Gilligan's Island. Catch him at a convention near
+    you, and live the myth of Smith!
   music: true
   published: true
 - title: Dead Dog Filk
@@ -1408,11 +1420,12 @@
   - Marilisa Valtazanou
   music: true
   published: true
-  description: "(20 min concert) Marilisa Valtazanou (guitar, voice, and most other instruments) 
-    is part of the folk duo Playing Rapunzel. She was born in Iowa, raised in Greece and now 
-    lives in London; she celebrates her multinational background by having a song in an obscure 
-    language for every occasion. She is easily recognised as the band member who will fearlessly play any 
-    instrument, including mandola, flutes, percussion, and even electric double bass."
+  description: "(20 min concert) Marilisa Valtazanou (guitar, voice, and most other
+    instruments) is part of the folk duo Playing Rapunzel. She was born in Iowa, raised
+    in Greece and now lives in London; she celebrates her multinational background
+    by having a song in an obscure language for every occasion. She is easily recognised
+    as the band member who will fearlessly play any instrument, including mandola,
+    flutes, percussion, and even electric double bass."
 - title: "(Reading) Danian Darrell Jerry"
   datetime: Saturday 12:00 PM
   room: "[Readings](/readins)"
