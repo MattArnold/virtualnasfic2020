@@ -86,7 +86,7 @@ Many of the folks exhibiting rely on conventions for all or part of their income
 Drop into #pets to see pictures of members animal companions. So far the cat people are in the lead, with 11 pictures showing one more cats.
 
 * 11 cat (one with kittens)
-* 6 dogs
+* 7 dogs
 * 2 birds
 * 1 pair of guinea pigs
 * 1 turtle
