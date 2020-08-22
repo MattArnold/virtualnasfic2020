@@ -12,6 +12,8 @@ In addition to browsing events on this page, you can search and sort our schedul
 Columbus 2020 NASFiC did not make that guide site, and cannot be responsible for what appears in it, and 
 it does not have links to the rooms, but you'll probably find it useful!
 
+We now have a [downloadable Souvenir Book PDF](/assets/pdfs/Columbus NASFIC 2020 Souvenir Book.pdf).
+
 {% include jump_to_event.html content=site.data.schedule %}
 
 # Events
