@@ -10,7 +10,7 @@ order: 4
 
 Named for the Olentangy River. Pronounced "Oh-Len-Tan-Jee".
 
-<iframe src="https://player.vimeo.com/video/448013666" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video"></iframe>
+<iframe src="https://pacsec.jp/olentangy.html" frameborder="0" allow="autoplay; fullscreen" allowfullscreen class="nasfic-video"></iframe>
 
 <iframe frameborder="0" class="nasfic-chat">
 </iframe>
