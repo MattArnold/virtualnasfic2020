@@ -1,4 +1,12 @@
 ---
+- title: "(Reading) Andrea Hairston"
+  datetime: 'Saturday 7:00PM '
+  room: Readings
+  programparticipants:
+  - Andrea Hairston
+  description: ''
+  music: ''
+  published: true
 - title: Office Hours with Jason Sanford
   datetime: Friday 5:00PM
   room: ''
@@ -913,8 +921,8 @@
   programparticipants:
   - Alec Nevala-Lee
   - Anne Gray
-  - Christopher J. Garcia
   - Tom Smith
+  - William S. Higgins
 - title: 'Worldbuilding: Innovations in Leadership & Governance'
   datetime: Saturday 5:00 PM
   room: "[Olentangy](/olentangy-room)"
@@ -1021,7 +1029,7 @@
   published: true
 - title: Contemporary Gothic Fiction
   datetime: Saturday, 9:00-9:50pm
-  room: "[Scioto](/scioto-room)"
+  room: "[Scioto](/scioto)"
   programparticipants:
   - Caitlin Starling
   - Jeannette Ng
@@ -1457,14 +1465,6 @@
   room: "[Readings](/readings)"
   programparticipants:
   - Jennifer Blackstream
-  description: ''
-  music: false
-  published: true
-- title: "(Reading) Eric Flint"
-  datetime: Sunday 10:30 AM
-  room: "[Readings](/readings)"
-  programparticipants:
-  - Eric Flint
   description: ''
   music: false
   published: true
