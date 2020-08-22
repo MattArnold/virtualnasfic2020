@@ -3,7 +3,7 @@ title: Auditorium
 layout: default
 category: room
 public: false
-order: "2"
+order: 2
 
 ---
 # Auditorium
