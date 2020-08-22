@@ -3,7 +3,7 @@ title: Register Here
 layout: default
 category: info
 public: true
-order: 2
+order: "2"
 
 ---
 # HOW TO ATTEND?
@@ -24,6 +24,6 @@ order: 2
 
 #### Please click on the boxes to show your agreement and enter your name.  Do that and press enter and registration on the website is complete!
 
-#### Then you will also need to join us on Discord.  Follow this [link ](www.discord.gg/columbus2020nasfic)to get there.
+#### Then you will also need to join us on Discord.  Follow this link to get there.  [http://discord.gg/columbus2020nasfic](http://discord.gg/columbus2020nasfic "http://discord.gg/columbus2020nasfic")
 
 {% include agreement.html %}
