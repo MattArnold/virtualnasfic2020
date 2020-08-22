@@ -21,13 +21,16 @@
   city: Sastamala
   state: Pirkanmaa / Finland
   what_is_sold: Costumes, Costume Accessories, Jewelry, Games/Gaming Accessories
-  link: "Webshop : [https://shop.bardjester.com/en](https://shop.bardjester.com/en
-    \"https://shop.bardjester.com/en\")  \nEtsy Shop : [https://www.etsy.com/shop/BardJester](https://www.etsy.com/shop/BardJester
-    \"https://www.etsy.com/shop/BardJester\")  \nInstagram : [https://www.instagram.com/bardjester/](https://www.instagram.com/bardjester/
-    \"https://www.instagram.com/bardjester/\")  \nFacebook : [https://www.facebook.com/BardJesterShop/](https://www.facebook.com/BardJesterShop/
-    \"https://www.facebook.com/BardJesterShop/\")"
-  description: "Bard & Jester makes Special Leather Works, custom hats \n\nfrom Steampunk
-    to Fantasy and other dimensions\n\n...And other special accessories."
+  link: "[Webshop](https://shop.bardjester.com/en)
+    [Etsy Shop](https://www.etsy.com/shop/BardJester)
+    [Instagram](https://www.instagram.com/bardjester/)
+    [Facebook](https://www.facebook.com/BardJesterShop/)"
+  description: "Bard & Jester makes Special Leather Works, custom hats from Steampunk 
+    to Fantasy and other dimensions... and other special accessories. They are 
+    available Saturday to text chat or voice chat in the Discord on the #bard-and-jester 
+    channel from 11:00am - 3:00pm EDT. Use coupon code NASFICCOLUMBUS2020 or follow 
+    [this link](https://www.etsy.com/shop/BardJester?coupon=NASFICCOLUMBUS2020). FREE 
+    SHIPPING for orders 250€ and over (EURO) / about 295USD / about 229GBP / 455NZD."
   restrictions: ''
   image_filenames:
   - "/assets/images/tableb-jmaster.jpg"
@@ -78,7 +81,7 @@
   what_is_sold: Fine Art (Sculpture, Paintings, similar), Jewelry
   link: |2-
 
-    [http://www.cogitation.org](http://www.cogitation.org "http://www.cogitation.org")
+    [Website](http://www.cogitation.org)
   description: "Custom pottery, yarn bowls, coasters, pet portraits, \n\namulets,
     tech sculpture, and more."
   restrictions: ''
