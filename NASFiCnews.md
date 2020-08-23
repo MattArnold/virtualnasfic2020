@@ -65,6 +65,16 @@ As of 4:30 pm on Saturday there 992 people registered through the convention web
 
 "Polls are work drives and I'm not going to" _(ed: I don't blame you, a work drive sounds like no fun at all)_
 
+### Kaffeklatsch Spaces Still Available
+
+Sign up for some small group conversation with some of the con's Guests!
+
+[Tom Smith](https://forms.gle/t9F1WcxCcRugYX4J8), Sun 11 AM	
+
+[Stephanie Law](https://forms.gle/c65gt4rkc2YRvWdm8), Sun 12 PM	
+
+[Eric Flint](https://forms.gle/c2KAFgLAGq1ADxT46), Sun 1 PM
+
 ### 2020 Prometheus Award Winners
 
 The Prometheus Awards, first presented in 1979 to F. Paul Wilson and administered by the nonprofit Libertarian Futurist Society (www.lfs.org), recognizes outstanding pro-freedom and/or anti-authoritarian speculative fiction. And the winners are...
