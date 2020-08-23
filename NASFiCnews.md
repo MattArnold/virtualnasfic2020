@@ -32,7 +32,7 @@ Next I was off to [Discon III](https://discon3.org/), where I enjoyed a Bourbon 
 
 I hit [Chicon 8](https://chicon.org/) during a quiet period, but that just meant that no one minded me and the one other party guest (besides host & Chair Helen Montgomery) chatting about various things in our liquor cabinets, and the ethics of mixing cocktails with Single Malt Scotch. [The Violet Hour](http://www.theviolethour.com/#about) in Chicago is a fantastic cocktail bar, so I mixed myself one of their drinks, the [Ghost in the Graveyard](http://cocktailvirgin.blogspot.com/2012/04/ghost-in-graveyard.html). 
 
-At the [Seattle in 2025](https://twitter.com/seattle2025) bid party I sipped on a hard apple cider and chatted with a small group about what we thought worked and didn't work about digital conventions, and what we'd tweak for next time. And I [bought a book](https://www.amazon.com/gp/product/B00U0PDV3S/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i6) written by one of the other guests!
+At the [Seattle in 2025](https://twitter.com/seattle2025) bid party I sipped on a hard apple cider and chatted with a small group about what we thought worked and didn't work about digital conventions, and what we'd tweak for next time. And I [bought a book](https://www.amazon.com/gp/product/B00U0PDV3S) written by one of the other guests!
 
 I'd stopped into the [Memphis in 2023](https://www.memphis23.org/) party earlier in the evening when it was quiet, but when I came back late it was definitely the SMOFfiest of all the parties. I enjoyed a [Brown Bomber cocktail](https://kindredcocktails.com/cocktail/brown-bomber) made from Tenessee whiskey and joined in a really thought provoking conversation about how to actually change the culture of Worldcon. (The business meeting is not the right tool for most things you actually want to change!) The conversation was far ranging, with the comparison to Burning Man the most inspiring bit to me - just like Burning Man, Worldcons work best when everyone sees themselves as a participant and not a consumer. But Burning Man does a much better job of [conveying that expectation](https://burningman.org/culture/philosophical-center/10-principles/) than Worldcon does.
 
@@ -42,13 +42,13 @@ By the time I got back to the hallway the [Astronomicon](http://www.astronomicon
 
 ### Saturday Panel Highlights
 
-The Legal Implications of Monster Hunting Panel was great! It was a very well put together and diverse panel with panlists who had backgrounds in law and policy and other topics pertinent to the issue. I liked that while they took the topic seriously they were also having great fun with the discussion, which made it very fun to watch. _(submitted by Liam)_
+The **Legal Implications of Monster Hunting Panel** was great! It was a very well put together and diverse panel with panlists who had backgrounds in law and policy and other topics pertinent to the issue. I liked that while they took the topic seriously they were also having great fun with the discussion, which made it very fun to watch. _(submitted by Liam)_
 
-The Legal Implications of Monster Hunting was a lot more in-depth than the description suggested and circled back to questions such as "how do you define human?" and "what is sentience?" ... It briefly raised the question of how AI fits into that and quite honestly, the single panel could fit a whole day. _(submitted by Emma)_
+The **Legal Implications of Monster Hunting** was a lot more in-depth than the description suggested and circled back to questions such as "how do you define human?" and "what is sentience?" ... It briefly raised the question of how AI fits into that and quite honestly, the single panel could fit a whole day. _(submitted by Emma)_
 
-"The things that we're really good at come so naturally to us, that we tend to assume that everyone knows how to do them, and it takes a while to realize what we're really good at that other people aren't."  --Scientist GoH Marc Millis, from his Saturday morning Kaffeeklatsch _(submitted by Anne)_
+"The things that we're really good at come so naturally to us, that we tend to assume that everyone knows how to do them, and it takes a while to realize what we're really good at that other people aren't."  --Scientist GoH **Marc Millis**, from his Saturday morning **Kaffeeklatsch** _(submitted by Anne)_
 
-The Older Women Protagonists in Fiction panel discussed the language used when describing older women and how that's perceived and also how, by not writing older women in fiction, there's a depth and breadth of experience lost, which could add immensely to a narrative. It's certainly given me food for thought in my own writing. _(submitted by Emma)_
+The **Older Women Protagonists in Fiction** panel discussed the language used when describing older women and how that's perceived and also how, by not writing older women in fiction, there's a depth and breadth of experience lost, which could add immensely to a narrative. It's certainly given me food for thought in my own writing. _(submitted by Emma)_
 
 ### Panel Recordings Magic 8 Ball Q&A
 
