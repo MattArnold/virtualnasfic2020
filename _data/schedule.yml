@@ -873,7 +873,8 @@
   room: "[Scioto](/scioto-room)"
   moderators:
   - Anne Gray
-  programparticipants: Anne Gray
+  programparticipants:
+  - Anne Gray
   description: |-
     Representatives from Seated Worldcons and Bids have an opportunity to answer your questions about their plans. Please consult the FAQs on http://www.worldcon.org/ before forming questions for this event.
 
