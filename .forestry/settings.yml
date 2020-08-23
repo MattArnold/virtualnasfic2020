@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _data/newsletter.yml
+  label: Newsletter Headers
+  match: "**/*"
+- type: document
   path: _data/schedule.yml
   label: Schedule Entries
 - type: document
