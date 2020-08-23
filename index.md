@@ -20,7 +20,7 @@ Some of our [Art Show](https://columbus2020nasfic.org/art-show-at-con.html "Go s
 
 There are still lots of great deals in the [Dealer's Room]()! You don't even have to haul your loot into the car to get it home!
 
-Finally, make sure you take advantage of the chance to buy a "Virtually" autographed book (or many!) at the [2020 NASFiC program participants' book "shelf"](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store.  All signed books will feature a custom 2020 Bookplate, with art by Artist Guest of Honor Stephanie Law. 
+Finally, make sure you take advantage of the chance to buy a "Virtually" autographed book (or many!) at the [2020 NASFiC program participants' book "shelf"](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store.  All signed books will feature a custom 2020 NASFiC Bookplate, with art by Artist Guest of Honor Stephanie Law. 
 
 Books can be purchased through that site from now through September 10, 2020. 
 
