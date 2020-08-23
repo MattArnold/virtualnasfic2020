@@ -26,9 +26,9 @@ Links to the available Kaffeeklatsches can be found in the Guest of Honor profil
 
 You can also find those links and other important news on the # Announcements channel at the # INFO DESK on Discord. If you have news you want to share with the rest of us, you can post it there, and also be sure to drop it off at # newsletter-submissions so Newsletter Editor Tammy Coxen can run it in [NASFiC News](https://columbus2020nasfic.org/NASFiCnews.html "Newsletter").
 
-    Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at <strike>5-8 PM</strike> 12:00 PM on Sunday in the (infinitely large)  # consuite (and for two weeks via our internet bookseller), and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
+Tomorrow we will post the grand announcement of how to "attend" our Virtual Mass Autographing Session at 12:00 PM on Sunday in the (infinitely large)  # consuite (and for two weeks via our internet bookseller), and of course there will also be the exciting reveal and showcase of the Chesley Award Nominees.
 
-And in case you were wondering WHAT to do with yourself between or after the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show [Galactic Journey](http://galacticjourney.org/ "website"), on stage in the Auditorium at 9 PM Saturday night!
+And in case you were wondering WHAT to do with yourself between or after the Saturday night NASFiC parties, there is now the option of attending the popular time-traveling book review show Galactic Journey, on stage in the Auditorium at 9 PM Saturday night!
 
 Good night, sleep tight, and we'll see you in the morning.
 
