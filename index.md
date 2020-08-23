@@ -12,7 +12,9 @@ order: 1
 
 Thank you all for coming.  This was fun and felt like a family reunion for many of us.  MUCH NEEDED during the extended quarantine conditions we are still operating under. 
 
-Make sure you get your take-home items!  If you have not yet picked up a copy of the **Souvenir Book**, [here it is](https://columbus2020nasfic.org/assets/pdfs/Columbus%20NASFIC%202020%20Souvenir%20Book.pdf "2020 NASFiC Souvenir Book").
+Make sure you get your take-home items!  If you have not yet picked up a copy of the **Souvenir Book**, [here it is](https://columbus2020nasfic.org/assets/pdfs/Columbus%20NASFIC%202020%20Souvenir%20Book.pdf "2020 NASFiC Souvenir Book"). 
+
+And don't forget your [2020 NASFiC convention T-Shirt](https://www.offworlddesigns.com/columbus-in-2020-nasfic-t-shirt/ "Get yer t-shirt here!")! Available for just $22 from OffWorld Designs. 
 
 Some of our [Art Show](https://columbus2020nasfic.org/art-show-at-con.html "Go shop at the Art Show!") artists also contributed to a **Coloring Book** to help you through the rest of the pandemic. 
 
