@@ -10,6 +10,82 @@ public: false
 
 # NASFiC News
 
+## Issue 4: Sunday 
+
+### Fan Fund Auction Still Open to Bids!
+
+Bidding in the silent auction for the TAFF, DUFF and LAFF fan funds will close at 4 pm on Sunday. Hit the [Facebook event](https://www.facebook.com/events/322469925862126) to place your bid on some truly amazing items.
+
+Some great items are still available for their low low starting bid, like [original art from Debbie Hopkins](https://www.facebook.com/events/322469925862126/permalink/325080515601067/), that fantastic [Emily the Strange skele-kitty plush](https://www.facebook.com/events/322469925862126/permalink/323618749080577/) I posted in the first newsletter, and from David Langford -[ Fritz Leiber: A Bibliography 1934-1979](https://www.facebook.com/events/322469925862126/permalink/323577262418059/), compiled by Chris Morgan and published for the 1979 Worldcon.
+
+Gillian Pollack is offering an [unlimited number of Tuckerizations](https://www.facebook.com/events/322469925862126/permalink/323869319055520), so if you've always wanted to have a location in a fictional world named after you, this is your chance!
+
+Many other items have just one or two bids, so could easily be yours! Go check out the many fun, one-of-a-kind and hand-crafted items that have been donated. The Fan Fund delegates thank you for your support!
+
+### Saturday Party Reviews
+
+I spent my Saturday night doing what I always do at cons - party hopping! To make my experience match as close as possible, I picked a drink for each party inspired by the location they were pitching.
+
+I started my evening in [Glasgow in 2024](https://glasgow2024.org/), sipping not Scotch (as you'd expect) but an excellent Scottish gin called [Pickering's](https://pickeringsgin.com/). Glasgow's in-person parties are always hopping, and this one was no exception, with a good crowd and fun conversation about Irn Bru, Tunnocks tea cakes and other Scottish delicacies. And Scotland's most musically-talented sons: [The Proclaimers](https://youtu.be/tbNlMtqrYS0).
+
+Next I was off to [Discon III](https://discon3.org/), where I enjoyed a Bourbon Rickey and shared the [tale of poor Colonel Joe Rickey](https://en.wikipedia.org/wiki/Rickey_(cocktail)), who completely HATED the fact that they named a drink after him. 
+
+I hit [Chicon 8](https://chicon.org/) during a quiet period, but that just meant that no one minded me and the one other party guest (besides host & Chair Helen Montgomery) chatting about various things in our liquor cabinets, and the ethics of mixing cocktails with Single Malt Scotch. [The Violet Hour](http://www.theviolethour.com/#about) in Chicago is a fantastic cocktail bar, so I mixed myself one of their drinks, the [Ghost in the Graveyard](http://cocktailvirgin.blogspot.com/2012/04/ghost-in-graveyard.html). 
+
+At the [Seattle in 2025](https://twitter.com/seattle2025) bid party I sipped on a hard apple cider and chatted with a small group about what we thought worked and didn't work about digital conventions, and what we'd tweak for next time. And I [bought a book](https://www.amazon.com/gp/product/B00U0PDV3S/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i6) written by one of the other guests!
+
+I'd stopped into the [Memphis in 2023](https://www.memphis23.org/) party earlier in the evening when it was quiet, but when I came back late it was definitely the SMOFfiest of all the parties. I enjoyed a [Brown Bomber cocktail](https://kindredcocktails.com/cocktail/brown-bomber) made from Tenessee whiskey and joined in a really thought provoking conversation about how to actually change the culture of Worldcon. (The business meeting is not the right tool for most things you actually want to change!) The conversation was far ranging, with the comparison to Burning Man the most inspiring bit to me - just like Burning Man, Worldcons work best when everyone sees themselves as a participant and not a consumer. But Burning Man does a much better job of [conveying that expectation](https://burningman.org/culture/philosophical-center/10-principles/) than Worldcon does.
+
+It was hard to drag myself away, but I did want to hit all the parties, so it was off to [Brisbane in 2025](https://twitter.com/aus2025) next. I'd had quite a few (mini-size) beverages by now, so I mixed myself up a low-ABV take on a Mai Tai using the one Australian product I had in the house, an excellent non-alcoholic "spirit" from [Lyre's](https://lyres.com/). I was really glad I landed there, though, as I had a chance to learn a lot about Brisbane and what it has to offer as a Worldcon location. While it will be winter in the summer hemisphere, Brisbane is in the sunny north, so if they win their bid for 2025, we can look forward to [nice balmy days](https://www.accuweather.com/en/au/brisbane/24741/august-weather/24741)!
+
+By the time I got back to the hallway the [Astronomicon](http://www.astronomicon.info/) party had already closed, so I missed that one. Which was just as well - after all that partying I was ready to go to bed! Thanks to all the party hosts for their hospitality!
+
+### Saturday Panel Highlights
+
+The Legal Implications of Monster Hunting Panel was great! It was a very well put together and diverse panel with panlists who had backgrounds in law and policy and other topics pertinent to the issue. I liked that while they took the topic seriously they were also having great fun with the discussion, which made it very fun to watch. _(submitted by Liam)_
+
+The Legal Implications of Monster Hunting was a lot more in-depth than the description suggested and circled back to questions such as "how do you define human?" and "what is sentience?" ... It briefly raised the question of how AI fits into that and quite honestly, the single panel could fit a whole day. _(submitted by Emma)_
+
+"The things that we're really good at come so naturally to us, that we tend to assume that everyone knows how to do them, and it takes a while to realize what we're really good at that other people aren't."  --Scientist GoH Marc Millis, from his Saturday morning Kaffeeklatsch _(submitted by Anne)_
+
+The Older Women Protagonists in Fiction panel discussed the language used when describing older women and how that's perceived and also how, by not writing older women in fiction, there's a depth and breadth of experience lost, which could add immensely to a narrative. It's certainly given me food for thought in my own writing. _(submitted by Emma)_
+
+### Panel Recordings Magic 8 Ball Q&A
+
+Q: Were the panels recorded?  
+A: It is decidedly so
+
+Q: Will they be available for later view?  
+A: Outlook good
+
+Q: When will they be available?  
+A: Cannot predict now
+
+Q: Will someone's pet appear?  
+A: You may rely on it
+
+_(ed: Most panels were recorded and the plan is to eventually post them to YouTube. But they need post-processing before that's possible, and the person who needs do do that hasn't slept since before CoNZealand. If you'd like to help with that project, please email tech@columbus2020nasfic.org)_
+
+### Cat people prevail!
+
+The final #pets tally is: 
+
+19 cat pictures (one with kittens)
+
+10 dogs
+
+2 birds
+
+1 pair of guinea pigs
+
+1 turtle
+
+### NASFiC by the Numbers
+
+As of 11:30 pm on Saturday there were 1092 people registered through the convention website and 716 people on Discord.
+
+**_And that's our last issue! Thank you for reading NASFiC News! Enjoy the rest of your con!_**
+
 ## Issue 3: Saturday PM
 
 ### Friday Party Review
