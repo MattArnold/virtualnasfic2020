@@ -873,9 +873,11 @@
   room: "[Scioto](/scioto-room)"
   moderators:
   - Anne Gray
-  programparticipants:
-  - ''
-  description: ''
+  programparticipants: Anne Gray
+  description: |-
+    Representatives from Seated Worldcons and Bids have an opportunity to answer your questions about their plans. Please consult the FAQs on http://www.worldcon.org/ before forming questions for this event.
+
+    Anne Gray (Moderator), Bill Lawhorn and Colette H. Fozard (Discon III), Helen Montgomery (Chicon 8), (Chengdu, China in 2023), Esther MacCallum-Stewart and Marguerite Smith (Glasgow in 2024), Kevin Black (Seattle, WA, USA 2025), Leife Shallcross and Perky (Brisbane, Australia in 2025)
   music: false
   published: true
 - title: The Legal Implications of Monster Hunting
