@@ -10,6 +10,12 @@ order: 6
 
 # Online Dealers at NASFiC
 
+{% include float_image.html filename="nasfic-2020-tshirt.png" side="left" %}
+
+
+[If you would like a T-Shirt from the event, go to OffWorldDesigns.](https://www.offworlddesigns.com/worldcons-bids/)
+
+
 Welcome to the NASFiC Virtual Dealer Room! Here you will find pictures and links to online purchasing our dealers have provided for your perusal. Every dealer listed is happy to accept orders remotely and is prepared to ship any new goodies you would like to acquire. We hope you enjoy your browsing!
 
 We’re actually online, at the Con, in a virtual server, waiting to chat with you! Text and voice are available!

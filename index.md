@@ -6,6 +6,13 @@ public: true
 order: 1
 
 ---
+
+{% include float_image.html filename="nasfic-2020-tshirt.png" side="right" %}
+
+# THANK YOU EVERYONE WHO ATTENDED!!!!
+
+[If you would like a T-Shirt from the event, go to OffWorldDesigns.](https://www.offworlddesigns.com/worldcons-bids/)
+
 {% include full_width_image.html filename="Columbus-NASFIC-2020_landing_image.png" height="50rem" %}
 
 ### 8/21/2020
