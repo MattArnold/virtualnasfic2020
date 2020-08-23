@@ -1,18 +1,23 @@
 ---
-- title: The Journey Show!
-  datetime: Saturday 9:00PM
-  room: Auditorium
-  programparticipants: Gideon Marcus
-  description: "Blast back to 55 years ago with August 22, 1965's The Journey Show!
-    (Take 2) \nThis time, it's a special doodling episode with a panel of terrific
-    comic artists! They'll be drawing sketches based on science fiction, the news
-    of the day, and YOUR requests!\n\nAlyssa Winans, Hugo Nominated cover artist and
-    illustrator.\nJimmy Purcell, creator of Been Better.\nThe Young Traveler, artist
-    for Hardship Post.\nCathleen Abalos, astonishing illustrator.\nand of course,
-    your Host, Gideon Marcus.\n\nPlus the usual: News of the day, humorous commentary,
-    and your questions answered! ... The Journey Show!"
+- title: Kaffeeklatsch with Eric Flint
+  datetime: Sunday 1:00 PM
+  room: ''
+  programparticipants: Eric Flint
+  description: "Grab a great opportunity to sit down with Ring of Fire Guest of Honor
+    Eric Flint at his Kaffeklatsch (or, \"coffee-with\"), tomorrow at Noon.  Grab
+    your lunch and a fun and refreshing beverage and we will send you and up to nine
+    others a link to a private Zoom Room where you can ask whatever questions you
+    might want to about how Stephanie comes up with her concepts and puts them to
+    paper. \n\nhttps://forms.gle/c2KAFgLAGq1ADxT46"
   music: ''
-  published: true
+  published: ''
+- title: The Journey Show!
+  datetime: ''
+  room: ''
+  programparticipants: ''
+  description: ''
+  music: ''
+  published: ''
 - title: Chesley Award Nominee Showcase (Replay)
   datetime: Saturday 8:00PM
   room: Auditorium
@@ -211,13 +216,13 @@
   music: ''
   published: true
 - title: Kaffeeklatsch with Tom Smith
-  datetime: Sunday 11:00 AM
+  datetime: Sunday 11:00AM
   room: Kaffeeklatsch
   programparticipants:
   - Tom Smith
   description: " You must sign up in advance. The sign up form opens at 3 pm on Friday,
     August 21 and is open until the group is maxed out or the event begins, whichever
-    happens first. Sign Up Sheet: https://forms.gle/bU75Vg9m1Y7r2NWE7"
+    happens first. Fill this out to claim a spot at the table: https://forms.gle/bU75Vg9m1Y7r2NWE7"
   music: ''
   published: true
 - title: Kaffeeklatsch with Marc Millis
@@ -880,9 +885,11 @@
   room: "[Scioto](/scioto-room)"
   moderators:
   - Anne Gray
-  programparticipants:
-  - ''
-  description: ''
+  programparticipants: Anne Gray
+  description: |-
+    Representatives from Seated Worldcons and Bids have an opportunity to answer your questions about their plans. Please consult the FAQs on http://www.worldcon.org/ before forming questions for this event.
+
+    Anne Gray (Moderator), Bill Lawhorn and Colette H. Fozard (Discon III), Helen Montgomery (Chicon 8), (Chengdu, China in 2023), Esther MacCallum-Stewart and Marguerite Smith (Glasgow in 2024), Kevin Black (Seattle, WA, USA 2025), Leife Shallcross and Perky (Brisbane, Australia in 2025)
   music: false
   published: true
 - title: The Legal Implications of Monster Hunting
