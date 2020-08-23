@@ -64,6 +64,9 @@ A: Cannot predict now
 Q: Will someone's pet appear?  
 A: You may rely on it
 
+Q. This is actually more a comment than a question, but...   
+A. No
+
 _(ed: Most panels were recorded and the plan is to eventually post them to YouTube. But they need post-processing before that's possible, and the person who needs do do that hasn't slept since before CoNZealand. If you'd like to help with that project, please email tech@columbus2020nasfic.org)_
 
 ### Cat people prevail!
