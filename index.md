@@ -10,25 +10,25 @@ order: 1
 
 ### And That's a Wrap!
 
-Thank you all for coming.  This was fun and felt like a family reunion for many of us.  MUCH NEEDED during the extended quarantine conditions we are still operating under. 
+Thank you all for coming.  This was fun and felt like a family reunion for many of us.  MUCH NEEDED during the extended quarantine conditions we are still operating under.
 
-Make sure you get your take-home items!  If you have not yet picked up a copy of the **Souvenir Book**, [here it is](https://columbus2020nasfic.org/assets/pdfs/Columbus%20NASFIC%202020%20Souvenir%20Book.pdf "2020 NASFiC Souvenir Book"). 
+Make sure you get your take-home items!  If you have not yet picked up a copy of the **Souvenir Book**, [here it is](https://columbus2020nasfic.org/assets/pdfs/Columbus%20NASFIC%202020%20Souvenir%20Book.pdf "2020 NASFiC Souvenir Book").
 
-And don't forget your [2020 NASFiC convention T-Shirt](https://www.offworlddesigns.com/columbus-in-2020-nasfic-t-shirt/ "Get yer t-shirt here!")! Available for just $22 from OffWorld Designs. 
+And don't forget your [2020 NASFiC convention T-Shirt](https://www.offworlddesigns.com/columbus-in-2020-nasfic-t-shirt/ "Get yer t-shirt here!")! Available for just $22 from OffWorld Designs.
 
-Some of our [Art Show](https://columbus2020nasfic.org/art-show-at-con.html "Go shop at the Art Show!") artists also contributed to a **Coloring Book** to help you through the rest of the pandemic. 
+Some of our [Art Show](https://columbus2020nasfic.org/art-show-at-con.html "Go shop at the Art Show!") artists also contributed to a [**Coloring Book**](https://drive.google.com/file/d/1c4gS6glElVCvfNIgQmGISsp6V5YnAeQs/view?usp=sharing "You like to color?") to help you through the rest of the pandemic.
 
 There are still lots of great deals in the [Dealer's Room](https://columbus2020nasfic.org/dealers-at-con.html "Dealer's Room")! You don't even have to haul your loot into the car to get it home!
 
-Finally, make sure you take advantage of the chance to buy a "Virtually" autographed book (or many!) at the [2020 NASFiC program participants' book "shelf"](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store.  All signed books will feature a custom 2020 NASFiC Bookplate, with art by Artist Guest of Honor Stephanie Law. 
+Finally, make sure you take advantage of the chance to buy a "Virtually" autographed book (or many!) at the [2020 NASFiC program participants' book "shelf"](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store.  All signed books will feature a custom 2020 NASFiC Bookplate, with art by Artist Guest of Honor Stephanie Law.
 
-Books can be purchased through that site from now through September 10, 2020. 
+Books can be purchased through that site from now through September 10, 2020.
 
-The Columbus NASFiC Discord will stay open for a while, and you are welcome to stroll through the other program rooms and times to see the "writing on the wall" of all the program item conversations.   
-  
-As for seeing the _programming_ that you missed, we hope that will be possible as well, but we have to check the quality of the recordings and do a bunch of video editing to get ready to re-run those talks and panels. Watch our social media, and _this space right here_ for updates on that later this week. 
+The Columbus NASFiC Discord will stay open for a while, and you are welcome to stroll through the other program rooms and times to see the "writing on the wall" of all the program item conversations.
 
-As always, volunteers made the convention happen: we could NOT have done it without you, and we really appreciate all the time people put in to make it so, not just over the weekend, but also meeting up virtually beforehand to get trained on this new way of doing things. 
+As for seeing the _programming_ that you missed, we hope that will be possible as well, but we have to check the quality of the recordings and do a bunch of video editing to get ready to re-run those talks and panels. Watch our social media, and _this space right here_ for updates on that later this week.
+
+As always, volunteers made the convention happen: we could NOT have done it without you, and we really appreciate all the time people put in to make it so, not just over the weekend, but also meeting up virtually beforehand to get trained on this new way of doing things.
 
 Thanks again, and we'll see you at the Dead Dog Party!
 
