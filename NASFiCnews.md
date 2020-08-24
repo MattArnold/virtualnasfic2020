@@ -10,7 +10,43 @@ public: false
 
 # NASFiC News
 
-## Issue 4: Sunday 
+# Issue 4.1: Sunday PS
+
+### Want a T-shirt?
+
+This fabulous wearable art can be yours from the [OffWorld Designs](https://www.offworlddesigns.com/columbus-in-2020-nasfic-t-shirt/) website.
+
+![](/assets/images/nasfic-2020-tshirt.png)
+
+### One Last NASFiC by the Numbers
+
+1177 unique names on the website
+
+753 members on Discord
+
+This was almost certainly the NASFiC with the most non-North American attendees, with 19 countries represented (according to Discord ribbon requests)!
+
+Vimeo data for the weekend: 16k impressions, 7,541 views, average time per view 27 min _(ed: I don't know how to interpret those numbers either, it's okay)_
+
+### Panel Recordings Available NOW!
+
+Turns out that early Magic 8 Ball reply was hazy. So I tried again. The raw footage from all the panels is available for viewing [here](https://vimeo.com/showcase/7474490), but you'll still need to wait a bit for them in a tidier format.
+
+### Books!
+
+Make sure you take advantage of the chance to buy a “Virtually” autographed book (or many!) at the [2020 NASFiC program participants’ book “shelf”](https://www.author-author.net/products/category/950 "2020 NASFiC Signed Books") of the **Author, Author!** book store. All signed books will feature a custom 2020 NASFiC Bookplate, with art by Artist Guest of Honor Stephanie Law. Books can be purchased through that site from now through September 10, 2020.
+
+### Scavenger Hunt Results
+
+Congratulations to Discord users Lawrie, Alex T, Jennifer R, Kiya Nicoll, Lisa Garrison, Evergreen, Anna-Louise, Ed Fortune, Shana and David Damrell for successfully completing the scavenger hunt and earning the coveted "Successful Cat Herder" ribbon.
+
+Still hunting? You can keep searching for kittens until the Discord server closes (probably around the end of August). 
+
+![](/assets/images/catherding.jpeg)
+
+**_Okay, that's really the last issue!_** 
+
+## Issue 4: Sunday
 
 ### Fan Fund Auction Still Open to Bids!
 
@@ -28,9 +64,9 @@ I spent my Saturday night doing what I always do at cons - party hopping! To mak
 
 I started my evening in [Glasgow in 2024](https://glasgow2024.org/), sipping not Scotch (as you'd expect) but an excellent Scottish gin called [Pickering's](https://pickeringsgin.com/). Glasgow's in-person parties are always hopping, and this one was no exception, with a good crowd and fun conversation about Irn Bru, Tunnocks tea cakes and other Scottish delicacies. And Scotland's most musically-talented sons: [The Proclaimers](https://youtu.be/tbNlMtqrYS0).
 
-Next I was off to [Discon III](https://discon3.org/), where I enjoyed a Bourbon Rickey and shared the [tale of poor Colonel Joe Rickey](https://en.wikipedia.org/wiki/Rickey_(cocktail)), who completely HATED the fact that they named a drink after him. 
+Next I was off to [Discon III](https://discon3.org/), where I enjoyed a Bourbon Rickey and shared the [tale of poor Colonel Joe Rickey](https://en.wikipedia.org/wiki/Rickey_(cocktail)), who completely HATED the fact that they named a drink after him.
 
-I hit [Chicon 8](https://chicon.org/) during a quiet period, but that just meant that no one minded me and the one other party guest (besides host & Chair Helen Montgomery) chatting about various things in our liquor cabinets, and the ethics of mixing cocktails with Single Malt Scotch. [The Violet Hour](http://www.theviolethour.com/#about) in Chicago is a fantastic cocktail bar, so I mixed myself one of their drinks, the [Ghost in the Graveyard](http://cocktailvirgin.blogspot.com/2012/04/ghost-in-graveyard.html). 
+I hit [Chicon 8](https://chicon.org/) during a quiet period, but that just meant that no one minded me and the one other party guest (besides host & Chair Helen Montgomery) chatting about various things in our liquor cabinets, and the ethics of mixing cocktails with Single Malt Scotch. [The Violet Hour](http://www.theviolethour.com/#about) in Chicago is a fantastic cocktail bar, so I mixed myself one of their drinks, the [Ghost in the Graveyard](http://cocktailvirgin.blogspot.com/2012/04/ghost-in-graveyard.html).
 
 At the [Seattle in 2025](https://twitter.com/seattle2025) bid party I sipped on a hard apple cider and chatted with a small group about what we thought worked and didn't work about digital conventions, and what we'd tweak for next time. And I [bought a book](https://www.amazon.com/gp/product/B00U0PDV3S) written by one of the other guests!
 
@@ -64,14 +100,14 @@ A: Cannot predict now
 Q: Will someone's pet appear?  
 A: You may rely on it
 
-Q. This is actually more a comment than a question, but...   
+Q. This is actually more a comment than a question, but...  
 A. No
 
 _(ed: Most panels were recorded and the plan is to eventually post them to YouTube. But they need post-processing before that's possible, and the person who needs do do that hasn't slept since before CoNZealand. If you'd like to help with that project, please email tech@columbus2020nasfic.org)_
 
 ### Cat people prevail!
 
-The final #pets tally is: 
+The final #pets tally is:
 
 19 cat pictures (one with kittens)
 
@@ -148,9 +184,9 @@ As of 4:30 pm on Saturday there 992 people registered through the convention web
 
 Sign up for some small group conversation with some of the con's Guests!
 
-[Tom Smith](https://forms.gle/t9F1WcxCcRugYX4J8), Sun 11 AM	
+[Tom Smith](https://forms.gle/t9F1WcxCcRugYX4J8), Sun 11 AM
 
-[Stephanie Law](https://forms.gle/c65gt4rkc2YRvWdm8), Sun 12 PM	
+[Stephanie Law](https://forms.gle/c65gt4rkc2YRvWdm8), Sun 12 PM
 
 [Eric Flint](https://forms.gle/c2KAFgLAGq1ADxT46), Sun 1 PM
 
