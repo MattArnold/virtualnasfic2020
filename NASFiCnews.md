@@ -20,7 +20,7 @@ This fabulous wearable art can be yours from the [OffWorld Designs](https://www.
 
 ### The 2020 NASFiC Coloring Book
 
-We are pleased to present the [2020 NASFiC Coloring Book](https://drive.google.com/file/d/1c4gS6glElVCvfNIgQmGISsp6V5YnAeQs/view?usp=sharing "The long rumored Coloring Book!")! Hoping this will help you get from this to your next wonderful sf convention experience. Many thanks to our Artist Guest of Honor Stephanie Law and to art show artists Amanda Makepeace, Ray VanTilburg, Debbie Hughes, and Españia Sheriff, for contributing.
+We are pleased to present the [2020 NASFiC Coloring Book](https://drive.google.com/file/d/1c4gS6glElVCvfNIgQmGISsp6V5YnAeQs/view?usp=sharing "The long rumored Coloring Book!")! Hoping this will help you get from this to your next wonderful SF convention experience. Many thanks to our Artist Guest of Honor Stephanie Law and to art show artists Amanda Makepeace, Ray VanTilburg, Debbie Hughes, and España Sheriff for contributing.
 
 ### One Last NASFiC by the Numbers
 
@@ -28,7 +28,7 @@ We are pleased to present the [2020 NASFiC Coloring Book](https://drive.google.c
 
 753 members on Discord
 
-This was almost certainly the NASFiC with the most non-North American attendees, with 19 countries represented (according to Discord ribbon requests)!
+This was almost certainly the NASFiC with the most non-North American attendees, with 19 countries represented according to Discord ribbon requests!
 
 Vimeo data for the weekend: 16k impressions, 7,541 views, average time per view 27 min _(ed: I don't know how to interpret those numbers either, it's okay)_
 
