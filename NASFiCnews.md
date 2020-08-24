@@ -18,6 +18,10 @@ This fabulous wearable art can be yours from the [OffWorld Designs](https://www.
 
 ![](/assets/images/nasfic-2020-tshirt.png)
 
+### The 2020 NASFiC Coloring Book
+
+We are pleased to present the [2020 NASFiC Coloring Book](https://drive.google.com/file/d/1c4gS6glElVCvfNIgQmGISsp6V5YnAeQs/view?usp=sharing "The long rumored Coloring Book!")! Hoping this will help you get from this to your next wonderful sf convention experience. Many thanks to our Artist Guest of Honor Stephanie Law and to art show artists Amanda Makepeace, Ray VanTilburg, Debbie Hughes, and Españia Sheriff, for contributing.
+
 ### One Last NASFiC by the Numbers
 
 1177 unique names on the website
@@ -40,11 +44,11 @@ Make sure you take advantage of the chance to buy a “Virtually” autographed 
 
 Congratulations to Discord users Lawrie, Alex T, Jennifer R, Kiya Nicoll, Lisa Garrison, Evergreen, Anna-Louise, Ed Fortune, Shana and David Damrell for successfully completing the scavenger hunt and earning the coveted "Successful Cat Herder" ribbon.
 
-Still hunting? You can keep searching for kittens until the Discord server closes (probably around the end of August). 
+Still hunting? You can keep searching for kittens until the Discord server closes (probably around the end of August).
 
 ![](/assets/images/catherding.jpeg)
 
-**_Okay, that's really the last issue!_** 
+**_Okay, that's really the last issue!_**
 
 ## Issue 4: Sunday
 
